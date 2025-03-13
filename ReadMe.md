@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Antoine!<br>💻 I'm passionate in artificial intelligence and applied mathematics.<br><br>🔧 Technical Skills : Python (NumPy, Rasa, OpenCV, TensorFlow, etc.), Matlab, R, Java.<br>🌍 I'm interested in AI and applied mathematics applications such as image detection, chatbots and financial modeling.<br>📚 Currently Learning : AI for finance and energy forecasting to expand my expertise.<br><br>📫 Feel free to connect or collaborate with me on innovative projects!
+👋 Hello, I'm Antoine!<br>💻 I'm passionate in artificial intelligence and applied mathematics.<br><br>🔧 Technical Skills : Python (NumPy, Rasa, OpenCV, TensorFlow, etc.), Matlab, R, Java.<br>🌍 I'm interested in AI and applied mathematics applications such as image detection, chatbots and financial modeling.<br>📚 Currently Learning : AI and algebraic calculation for finance to expand my expertise.<br><br>📫 Feel free to connect or collaborate with me on innovative projects!
 
 
 ## 🌐 Socials:
