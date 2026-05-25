@@ -30,5 +30,42 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-barbet-poulard/)
 
+# Pinned Projects
+
+## [Finance-projects](https://github.com/antoineb1/Finance-projects)
+
+Financial modeling, risk management, market analysis, and quantitative finance projects.
+
+**Tech:** Python
+
+---
+
+## [Gambling-projects](https://github.com/antoineb1/Gambling-projects)
+
+Probability-based games, poker simulations, Monte Carlo methods, and decision-making models.
+
+**Tech:** Python
+
+---
+
+## [Artificial_vision](https://github.com/antoineb1/Artificial_vision)
+
+Computer vision projects using image processing and machine learning techniques.
+
+**Tech:** Jupyter Notebook
+
+---
+
+## [projet-vehicule-autonome](https://github.com/antoineb1/projet-vehicule-autonome)
+
+Autonomous vehicle project involving perception, control, and automation logic.
+
+**Tech:** Python
+
+---
+
+## [Automatique](https://github.com/antoineb1/Automatique)
+
+Automation, control systems, and engineering-related projects.
 
 
