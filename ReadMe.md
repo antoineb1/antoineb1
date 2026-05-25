@@ -30,11 +30,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-barbet-poulard/)
 
-# Pinned Projects
+# Projects
 
 ## [Finance-projects](https://github.com/antoineb1/Finance-projects)
 
-Financial modeling, risk management, market analysis, and quantitative finance projects.
+Greek position simulations and financial strategy backtesting.
 
 **Tech:** Python
 
@@ -42,30 +42,25 @@ Financial modeling, risk management, market analysis, and quantitative finance p
 
 ## [Gambling-projects](https://github.com/antoineb1/Gambling-projects)
 
-Probability-based games, poker simulations, Monte Carlo methods, and decision-making models.
+Real-time poker solver.
 
-**Tech:** Python
+**Tech:** Python, C
 
 ---
 
 ## [Artificial_vision](https://github.com/antoineb1/Artificial_vision)
 
-Computer vision projects using image processing and machine learning techniques.
-
-**Tech:** Jupyter Notebook
-
----
-
-## [projet-vehicule-autonome](https://github.com/antoineb1/projet-vehicule-autonome)
-
-Autonomous vehicle project involving perception, control, and automation logic.
+Creation of AI models for image recognition.
 
 **Tech:** Python
 
 ---
 
-## [Automatique](https://github.com/antoineb1/Automatique)
+## [Natural-language-processing-with-rasa](https://github.com/antoineb1/Natural-language-processing-with-rasa)
 
-Automation, control systems, and engineering-related projects.
+Creation of AI models for a robot chatbot.
+
+**Tech:** Python
+
 
 
