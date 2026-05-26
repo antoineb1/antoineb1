@@ -42,7 +42,7 @@ Greek position simulations and financial strategy backtesting.
 
 ## [Gambling-projects](https://github.com/antoineb1/Gambling-projects)
 
-Real-time poker solver.
+Real-time poker solver and football betting analysis.
 
 **Tech:** Python, C
 
